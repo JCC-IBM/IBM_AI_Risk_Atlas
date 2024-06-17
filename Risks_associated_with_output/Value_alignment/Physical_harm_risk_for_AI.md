@@ -6,7 +6,7 @@
 
 ### Description
 
-A model might generate language that leads to physical harm The language might include overtly violent, covertly dangerous, or otherwise indirectly unsafe statements that could precipitate immediate physical harm or create prejudices that could lead to future harm.
+A model might generate language that leads to physical harm. The language might include overtly violent, covertly dangerous, or otherwise indirectly unsafe statements that could precipitate immediate physical harm or create prejudices that could lead to future harm.
 
 ### Why is physical harm a concern for foundation models?
 
