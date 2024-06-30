@@ -1,12 +1,6 @@
-# Revealing personal information risk for AI
 
-**Risks associated with output** \
-**Privacy** \
-**Amplified by generative AI**
 
-### Description
-
-When personal identifiable information (PII) or sensitive personal information (SPI) are used in training data, fine-tuning data, or as part of the prompt, models might reveal that data in the generated output. Revealing personal information is a type of data leakage.
+When personal identifiable information (PII) or sensitive personal information (SPI) are used in training data, fine-tuning data, or as part of the prompt, models might reveal that data in the generated output. Revealing personal information is a type of data leakage. This risk is amplified by amplified by generative AI
 
 ### Why is revealing personal information a concern for foundation models?
 
