@@ -8,9 +8,7 @@ As AI becomes more advanced, humans are challenged to comprehend and retrace how
 
 There are many advantages to understanding how an AI-enabled system has led to a specific output.  Explainability can help developers ensure that the system is working as expected, it might be necessary to meet regulatory standards, or it might be important in allowing those affected by a decision to challenge or change that outcome. AI governance is a business imperative for scaling enterprise AI
 
-Learn about barriers to AI adoptions, particularly lack of AI governance and risk 
-
-management solutions.
+Learn about barriers to AI adoptions, particularly lack of AI governance and risk management solutions.
 
 <a name="why+explainable+ai+matters"></a>**Why explainable AI matters**
 
