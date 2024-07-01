@@ -8,7 +8,7 @@ New risks specifically associated with generative AI
 
 Fistly we will describe and explain non-technical risks associated with AI.
 
-1. Accountability risk is a no-technical governance risk that is amplified by generative AI.
+1. Accountability risk is a non-technical governance risk that is amplified by generative AI.
 
 Description:
 The foundation model development process is complex with lots of data, processes, and roles. When model output does not work as expected, it can be difficult to determine the root cause and assign responsibility.
