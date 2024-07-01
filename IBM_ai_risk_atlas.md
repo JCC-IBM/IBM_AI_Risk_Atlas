@@ -477,8 +477,7 @@ Source: https://www.thehindubusinessline.com/info-tech/openai-admits-data-breach
 
 8. Hallucination risk for AI is a risks associated with output. It concerns value alignment and is new to generative AI.
 
-Description
-Generation of factually inaccurate or untruthful content.
+Description- Generation of factually inaccurate or untruthful content.
 
 Why is hallucination a concern for foundation models?
 False output can mislead users and be incorporated into downstream artifacts, further spreading misinformation. False output can harm both owners and users of the AI models. Also, business entities might face fines, reputational harms, disruption to operations, and other legal consequences.
