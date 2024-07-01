@@ -3,7 +3,9 @@ The IBM AI Risk Atlas provides a guide to understand some of the risks of workin
 Risks are categorized with one of these tags:
 
 Traditional AI risks (applies to traditional models as well as generative AI)
+
 Risks amplified by generative AI (might also apply to traditional models)
+
 New risks specifically associated with generative AI
 
 Fistly we will describe and explain non-technical risks associated with AI.
